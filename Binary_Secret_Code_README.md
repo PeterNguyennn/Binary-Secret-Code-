@@ -2,8 +2,6 @@
 
 An 8-bit LED display driven by a DIP switch. Encode any ASCII character in binary, flip the switches, press the button to reveal — no microcontroller, no code.
 
-![TinkerCAD Circuit](tinkercad.png)
-
 🔗 [View & Simulate on TinkerCAD](https://www.tinkercad.com/things/l2ELaaUQt4R-binary-secret-code) · 🎥 [Demo Video](https://drive.google.com/file/d/1G-LQ21Wpil4ovP0nIzB0rD1e0v_hsWUa/view?usp=drive_link)
 
 ---
